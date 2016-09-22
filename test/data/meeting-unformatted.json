@@ -1,0 +1,199 @@
+{
+  "_id": "57da5d308a1d2419315d8865",
+  "date": "27. april",
+  "day": "27",
+  "month": "04",
+  "status": "Offentlig",
+  "id": "341456",
+  "year": "2016",
+  "yearMonthDay": 20160427,
+  "composedId": "216162-2016-04-27-341456",
+  "boardId": "216162",
+  "boardName": "Fylkestinget",
+  "place": "",
+  "documents": [
+    {
+      "fileUrl": "http://opengov.cloudapp.net/Meetings/tfk/File/Details/460194.PDF?fileName=Protokoll%20Fylkestinget%2027.04.2016",
+      "title": "Protokoll Fylkestinget 27.04.2016"
+    },
+    {
+      "fileUrl": "http://opengov.cloudapp.net/Meetings/tfk/File/Details/457758.PDF?fileName=M%C3%B8teinnkalling%20Fylkestinget%2027.04.2016",
+      "title": "Møteinnkalling Fylkestinget 27.04.2016"
+    }
+  ],
+  "agenda": [
+    {
+      "agendanumber": "1/16",
+      "title": "Møteinnkalling Fylkestinget 27.04.2016",
+      "id": "204233",
+      "documents": [
+        {
+          "title": "Saksprotokoll FYTI, 27042016, Sak 1/16, Møteinnkalling Fylkestinget 27.04.2016",
+          "documentUrl": "http://opengov.cloudapp.net/Meetings/tfk/File/Details/462063.PDF?fileName=Saksprotokoll%20FYTI%2C%2027042016%2C%20Sak%201%2F16%2C%20M%C3%B8teinnkalling%20Fylkestinget%2027.04.2016",
+          "documentSize": "316,19 KB",
+          "documentCategory": ""
+        },
+        {
+          "title": "Møteinnkalling Fylkestinget 27.04.2016",
+          "documentUrl": "http://opengov.cloudapp.net/Meetings/tfk/File/Details/457758.PDF?fileName=M%C3%B8teinnkalling%20Fylkestinget%2027.04.2016",
+          "documentSize": "1,96 MB",
+          "documentCategory": ""
+        }
+      ]
+    },
+    {
+      "agendanumber": "1/16",
+      "title": "Godkjenning av møteprotokoll frå 9.-10.12.2015",
+      "id": "204213",
+      "documents": [
+        {
+          "title": "Saksprotokoll FYTI, 27042016, Sak 1/16, Godkjenning av møteprotokoll frå 9.-10.12.2015",
+          "documentUrl": "http://opengov.cloudapp.net/Meetings/tfk/File/Details/462066.PDF?fileName=Saksprotokoll%20FYTI%2C%2027042016%2C%20Sak%201%2F16%2C%20Godkjenning%20av%20m%C3%B8teprotokoll%20fr%C3%A5%209.-10.12.2015",
+          "documentSize": "314,87 KB",
+          "documentCategory": ""
+        },
+        {
+          "title": "Godkjenning av møteprotokoll frå 9.-10.12.2015",
+          "documentUrl": "http://opengov.cloudapp.net/Meetings/tfk/File/Details/457714.PDF?fileName=Godkjenning%20av%20m%C3%B8teprotokoll%20fr%C3%A5%209.-10.12.2015",
+          "documentSize": "338,35 KB",
+          "documentCategory": ""
+        },
+        {
+          "title": "Protokoll Fylkestinget 09.12.2015",
+          "documentUrl": "http://opengov.cloudapp.net/Meetings/tfk/File/Details/395788.PDF?fileName=Protokoll%20Fylkestinget%2009.12.2015",
+          "documentSize": "2,23 MB",
+          "documentCategory": ""
+        }
+      ]
+    },
+    {
+      "agendanumber": "1/16",
+      "title": "Telemarkskanalen FKF - Val av styre",
+      "id": "204209",
+      "documents": [
+        {
+          "title": "Saksprotokoll FYTI, 27042016, Sak 1/16, Telemarkskanalen FKF - Val av styre",
+          "documentUrl": "http://opengov.cloudapp.net/Meetings/tfk/File/Details/462068.PDF?fileName=Saksprotokoll%20FYTI%2C%2027042016%2C%20Sak%201%2F16%2C%20Telemarkskanalen%20FKF%20-%20Val%20av%20styre",
+          "documentSize": "326,78 KB",
+          "documentCategory": ""
+        },
+        {
+          "title": "Telemarkskanalen FKF - Val av styre",
+          "documentUrl": "http://opengov.cloudapp.net/Meetings/tfk/File/Details/456754.PDF?fileName=Telemarkskanalen%20FKF%20-%20Val%20av%20styre",
+          "documentSize": "374,82 KB",
+          "documentCategory": ""
+        },
+        {
+          "title": "Brev frå Brønnøysundregistrene - Foretaksregisteret.pdf",
+          "documentUrl": "http://opengov.cloudapp.net/Meetings/tfk/File/Details/456756.PDF?fileName=Brev%20fr%C3%A5%20Br%C3%B8nn%C3%B8ysundregistrene%20-%20Foretaksregisteret.pdf",
+          "documentSize": "41,34 KB",
+          "documentCategory": ""
+        },
+        {
+          "title": "Vedtekter Telemarkskanalen FKF.pdf",
+          "documentUrl": "http://opengov.cloudapp.net/Meetings/tfk/File/Details/456778.PDF?fileName=Vedtekter%20Telemarkskanalen%20FKF.pdf",
+          "documentSize": "339,17 KB",
+          "documentCategory": ""
+        }
+      ]
+    },
+    {
+      "agendanumber": "2/16",
+      "title": "Årsregnskap 2015 - Telemarkskanalen FKF",
+      "id": "204221",
+      "documents": [
+        {
+          "title": "Saksprotokoll FYTI, 27042016, Sak 2/16, Årsregnskap 2015 - Telemarkskanalen FKF",
+          "documentUrl": "http://opengov.cloudapp.net/Meetings/tfk/File/Details/462070.PDF?fileName=Saksprotokoll%20FYTI%2C%2027042016%2C%20Sak%202%2F16%2C%20%C3%85rsregnskap%202015%20-%20Telemarkskanalen%20FKF",
+          "documentSize": "315,38 KB",
+          "documentCategory": ""
+        },
+        {
+          "title": "Årsregnskap 2015 - Telemarkskanalen FKF",
+          "documentUrl": "http://opengov.cloudapp.net/Meetings/tfk/File/Details/440932.PDF?fileName=%C3%85rsregnskap%202015%20-%20Telemarkskanalen%20FKF",
+          "documentSize": "347,38 KB",
+          "documentCategory": ""
+        },
+        {
+          "title": "Revisjonsberetning Telemarkskanalen 2015.pdf",
+          "documentUrl": "http://opengov.cloudapp.net/Meetings/tfk/File/Details/451773.PDF?fileName=Revisjonsberetning%20Telemarkskanalen%202015.pdf",
+          "documentSize": "202,36 KB",
+          "documentCategory": ""
+        },
+        {
+          "title": "54-Årsregnskap 2015.pdf",
+          "documentUrl": "http://opengov.cloudapp.net/Meetings/tfk/File/Details/452033.PDF?fileName=54-%C3%85rsregnskap%202015.pdf",
+          "documentSize": "321,88 KB",
+          "documentCategory": ""
+        },
+        {
+          "title": "Årsrapport Telemarkskanalen 2015.pdf",
+          "documentUrl": "http://opengov.cloudapp.net/Meetings/tfk/File/Details/452034.PDF?fileName=%C3%85rsrapport%20Telemarkskanalen%202015.pdf",
+          "documentSize": "682,62 KB",
+          "documentCategory": ""
+        },
+        {
+          "title": "2016-1 Møteprotokoll styremøte 17 03 2016 sak 3.pdf",
+          "documentUrl": "http://opengov.cloudapp.net/Meetings/tfk/File/Details/454237.PDF?fileName=2016-1%20M%C3%B8teprotokoll%20styrem%C3%B8te%2017%2003%202016%20sak%203.pdf",
+          "documentSize": "129,88 KB",
+          "documentCategory": ""
+        }
+      ]
+    },
+    {
+      "agendanumber": "3/16",
+      "title": "Årsregnskap 2015 - Telemark fylkeskommune",
+      "id": "204206",
+      "documents": [
+        {
+          "title": "Saksprotokoll FYTI, 27042016, Sak 3/16, Årsregnskap 2015 - Telemark fylkeskommune",
+          "documentUrl": "http://opengov.cloudapp.net/Meetings/tfk/File/Details/462072.PDF?fileName=Saksprotokoll%20FYTI%2C%2027042016%2C%20Sak%203%2F16%2C%20%C3%85rsregnskap%202015%20-%20Telemark%20fylkeskommune",
+          "documentSize": "403,11 KB",
+          "documentCategory": ""
+        },
+        {
+          "title": "Årsregnskap 2015 - Telemark fylkeskommune",
+          "documentUrl": "http://opengov.cloudapp.net/Meetings/tfk/File/Details/440928.PDF?fileName=%C3%85rsregnskap%202015%20-%20Telemark%20fylkeskommune",
+          "documentSize": "797,05 KB",
+          "documentCategory": ""
+        },
+        {
+          "title": "Årsregnskap 2015",
+          "documentUrl": "http://opengov.cloudapp.net/Meetings/tfk/File/Details/449224.PDF?fileName=%C3%85rsregnskap%202015",
+          "documentSize": "4,17 MB",
+          "documentCategory": ""
+        },
+        {
+          "title": "revisjonsberetning TFK 2015",
+          "documentUrl": "http://opengov.cloudapp.net/Meetings/tfk/File/Details/449225.PDF?fileName=revisjonsberetning%20TFK%202015",
+          "documentSize": "161,24 KB",
+          "documentCategory": ""
+        },
+        {
+          "title": "6.11 rapport til KU om TFK 2015",
+          "documentUrl": "http://opengov.cloudapp.net/Meetings/tfk/File/Details/449227.PDF?fileName=6.11%20rapport%20til%20KU%20om%20TFK%202015",
+          "documentSize": "455,78 KB",
+          "documentCategory": ""
+        },
+        {
+          "title": "Melding om vedtak - TFK årsregnskap 2015",
+          "documentUrl": "http://opengov.cloudapp.net/Meetings/tfk/File/Details/453554.PDF?fileName=Melding%20om%20vedtak%20-%20TFK%20%C3%A5rsregnskap%202015",
+          "documentSize": "209,4 KB",
+          "documentCategory": ""
+        },
+        {
+          "title": "Saksprotokoll KU-TFK, 12042016, Sak 13-16, Årsrekneskapet 2015 for Telemark fylkeskommune",
+          "documentUrl": "http://opengov.cloudapp.net/Meetings/tfk/File/Details/453555.PDF?fileName=Saksprotokoll%20KU-TFK%2C%2012042016%2C%20Sak%2013-16%2C%20%C3%85rsrekneskapet%202015%20for%20Telemark%20fylkeskommune",
+          "documentSize": "320,93 KB",
+          "documentCategory": ""
+        },
+        {
+          "title": "Rapport til KU om TFK 2015",
+          "documentUrl": "http://opengov.cloudapp.net/Meetings/tfk/File/Details/453556.PDF?fileName=Rapport%20til%20KU%20om%20TFK%202015",
+          "documentSize": "454,09 KB",
+          "documentCategory": ""
+        }
+      ]
+    }
+  ]
+}
