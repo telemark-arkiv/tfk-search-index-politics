@@ -26,10 +26,10 @@ RUN npm install --production
 
 # Env variables
 ENV JWT_KEY Louie Louie, oh no, I got to go Louie Louie, oh no, I got to go
-ENV SEARCH_SERVICE_URL https://search.service.com/api
+ENV SEARCH_SERVICE_URL https://politics.search.t-fk.no
 ENV SEARCH_SERVICE_INDEX politics
-ENV SOURCE_URL_POLITICIANS http://www.yoursite.com/api
-ENV SOURCE_URL_OPENGOV http://www.yoursite.com/api
+ENV SOURCE_URL_POLITICIANS https://politiker-api.t-fk.no
+ENV SOURCE_URL_OPENGOV https://opengov.api.t-fk.no
 ENV SITE_URL http://www.yoursite.com
 
 # Startup
