@@ -4,10 +4,12 @@ const seneca = require('seneca')()
 const senecaIndex = require('./lib/seneca-index')
 const senecaData = require('./lib/seneca-data')
 const senecaParse = require('./lib/seneca-parse')
+const senecaCounter = require('./lib/seneca-counter')
 
 seneca.use(senecaIndex)
 seneca.use(senecaData)
 seneca.use(senecaParse)
+seneca.use(senecaCounter)
 
 seneca.listen()
 
