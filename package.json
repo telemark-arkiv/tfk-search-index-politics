@@ -1,6 +1,6 @@
 {
   "name": "tfk-search-index-politics",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Index politicians in elasticsearch",
   "license": "MIT",
   "author": {
@@ -10,7 +10,7 @@
   },
   "main": "index.js",
   "engines": {
-    "node": ">=4.5.0"
+    "node": ">=4.6.0"
   },
   "scripts": {
     "start": "node index.js",
