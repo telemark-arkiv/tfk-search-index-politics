@@ -6,5 +6,5 @@ module.exports = {
   SEARCH_SERVICE_INDEX: process.env.SEARCH_SERVICE_INDEX || 'politics',
   SOURCE_URL_POLITICIANS: process.env.SOURCE_URL_POLITICIANS || 'https://politiker-api.t-fk.no',
   SOURCE_URL_OPENGOV: process.env.SOURCE_URL_OPENGOV || 'https://opengov.api.t-fk.no',
-  SITE_URL: process.env.SITE_URL || 'https://politikk.t-fk.no'
+  SITE_URL: process.env.SITE_URL || 'https://politikk.microsite.t-fk.no'
 }
