@@ -1,6 +1,8 @@
 [![Build Status](https://travis-ci.org/telemark/tfk-search-index-politics.svg?branch=master)](https://travis-ci.org/telemark/tfk-search-index-politics)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 # tfk-search-index-politics
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/telemark/tfk-search-index-politics.svg)](https://greenkeeper.io/)
 Indekserer politikere, partier, utvalg og utvalgsmøter
 
 ## Docker
