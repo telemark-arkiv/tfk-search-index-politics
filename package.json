@@ -35,14 +35,14 @@
     "url": "http://github.com/telemark/tfk-search-index-politics/issues"
   },
   "devDependencies": {
-    "coveralls": "2.11.14",
-    "nsp": "2.6.1",
-    "standard": "8.1.0",
-    "tap": "7.1.2"
+    "coveralls": "2.11.16",
+    "nsp": "2.6.2",
+    "standard": "8.6.0",
+    "tap": "10.0.2"
   },
   "dependencies": {
-    "seneca": "3.1.0",
-    "tfk-generate-jwt": "1.0.5",
+    "seneca": "3.2.2",
+    "tfk-generate-jwt": "1.0.10",
     "wreck": "10.0.0"
   }
 }
